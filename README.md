@@ -1,5 +1,6 @@
 
 # TAKOMA 
+![Capture1ddddd](https://user-images.githubusercontent.com/92208712/189229555-9f0e6303-9e42-4a86-9599-95283f6363cf.PNG)
 
 
 ## Built With
@@ -12,11 +13,10 @@
 - Git/GitHub
 - GitFlow
 - Webpack
-- Jest Testing
 
 ## Live Demo
 
-[Live Demo]()
+[Live Demo](https://takoma.herokuapp.com/)
 
 ## Getting Started
 
