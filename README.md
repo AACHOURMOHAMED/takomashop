@@ -1,6 +1,7 @@
 
 # TAKOMA 
-![Capture1ddddd](https://user-images.githubusercontent.com/92208712/189229555-9f0e6303-9e42-4a86-9599-95283f6363cf.PNG)
+
+![fgff](https://user-images.githubusercontent.com/92208712/189330746-e7171938-9288-4d09-8120-be2042b57763.PNG)
 
 
 ## Built With
@@ -8,7 +9,6 @@
 - HTML/CSS
 - Javascript
 - React/Redux
-- Linters
 - Visual Studio
 - Git/GitHub
 - GitFlow
