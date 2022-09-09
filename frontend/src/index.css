@@ -50,6 +50,16 @@ h2 {
   .carousel-caption h2 {
     font-size: 2.5vw;
   }
+
+  .name {
+    font-size: 12px;
+  }
+  .price {
+    font-size: 16px;
+  }
+  .card__body {
+    padding: 0;
+  }
 }
 
 .card {
