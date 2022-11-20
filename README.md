@@ -42,10 +42,9 @@ Deploy onto the web using GitHub Pages
 
 ## Authors
 
-👤 **AshourMohamed**
+👤 ** Mohamed Aachour**
 
 - GitHub: [@AACHOURMOHAMED](https://github.com/AACHOURMOHAMED)
-- Twitter: [@MohamedAachour3](https://twitter.com/MohamedAachour3)
 - LinkedIn: [Mohamed Aachour](https://linkedin.com/in/mohamed-aachour-25405b215)
 
 ## 🤝 Contributing
